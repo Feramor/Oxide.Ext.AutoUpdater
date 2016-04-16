@@ -1,7 +1,7 @@
 # The Installation Manual
 ## Auto Plugin Updater Extension For Oxide
 This is an extension to [Oxide](http://www.oxidemod.org), a powerful modding framework for several survival games.
-This extension adds a auto updating system to any server with just a few clicks.
+This extension adds a auto plugins updating system to any server with just a few clicks.
 
 #### Features
 * Every 20 minutes this extansion checks for updated versions of plugins downloaded from [Oxide](http://www.oxidemod.org)
