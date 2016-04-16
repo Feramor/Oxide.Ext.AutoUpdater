@@ -12,7 +12,7 @@ Installing the extension is and remains free for non-commercial and commercial u
 ## Installation
 1. Stop your server if its already running.
 2. Make sure that your server is running a recent version of [Oxide](http://www.oxidemod.org/downloads/).
-3. Download [Oxide.Ext.DropBox](http://oxidemod.org/extensions/dropbox-extension.1542/) or compile it for yourself
+3. Download Soon [Oxide.Ext.DropBox](Soon) or compile it for yourself
 4. Place the just downloaded `Oxide.Ext.AutoUpdater.dll` into your server's `Managed` directory.
 5. Run server.
 
