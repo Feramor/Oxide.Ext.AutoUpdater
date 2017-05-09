@@ -17,5 +17,7 @@ Installing the extension is and remains free for non-commercial and commercial u
 5. Run server.
 
 **Note:** Some game server providers restrict access to the `Managed` directory but you may usually ask their support to install Extension for you.
+
 **Note:** You will need a web server for this plugin to work.Php file is added you need to change FORUMUSERNAME and FORUMPASSWORd with your own Username/Password
+
 **Note:** Also you will need to recompile your own updater and make sure you have changed [You Need To Update This Line](https://github.com/Feramor/Oxide.Ext.AutoUpdater/blob/master/Oxide.Ext.AutoUpdater/Libraries/AutoUpdater.cs#L125) with your own website
